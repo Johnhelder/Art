@@ -52,3 +52,13 @@ a, i{
   margin-right: 15px;
 }
 
+/*NAVBAR*/
+
+#navbar a{
+  width: 80px;
+  color: #444; 
+}
+
+#navbar a:hover{
+  color: #C1B396;
+}
