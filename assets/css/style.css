@@ -80,3 +80,13 @@ a, i{
   left: 25px;
   bottom: 25px;
 }
+
+/*GALLERY*/
+
+#img2{
+  background-image: url('../images/g_2.jpg');
+}
+
+#img3{
+  background-image: url('../images/g_3.jpg');
+}
